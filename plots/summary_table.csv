@@ -1,0 +1,5 @@
+Policy,Requests,Mean Response (ms),Median Response (ms),Std Dev (ms),Mean Waiting (ms),Throughput (req/s)
+FCFS,160,29.930,1.044,81.743,26.091,21.58
+SJF,160,35.981,0.777,84.978,34.940,27.68
+RR (Q=5),160,36.046,2.384,84.952,33.672,26.45
+RR (Q=10),160,27.983,2.050,71.624,27.051,34.09
